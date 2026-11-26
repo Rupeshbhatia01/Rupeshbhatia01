@@ -53,13 +53,13 @@ Building digital experiences, exploring AI, analysing data, and learning how tec
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Rupeshbhatia01&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📊 Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rupeshbhatia01&theme=tokyo-night&hide_border=true)
 
 ---
 
@@ -86,7 +86,7 @@ Building digital experiences, exploring AI, analysing data, and learning how tec
 
 ## 🤝 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rupeshbhatia01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
 ---
